@@ -1,5 +1,10 @@
 Este es el color amarillo
 Voy a hacer un cambio aquí. 
 Soy amarillo como el sol.
+<<<<<<< HEAD
 Soy amarillo como un girasol.
 Soy amarillo como un balón.
+=======
+Soy amarillo como un pollito
+Soy amarillo como un bombillo
+>>>>>>> 3e3934e24f57024a283de2902bb3d97153c5bd75
